@@ -1,0 +1,13 @@
+body{
+    color: chartreuse;background-color: black;
+}
+button{color: chartreuse;background-color: black;}
+#Btn{
+
+    display: block;
+    font-size: 15px;
+    
+}
+#ls{
+    color: chartreuse;background-color: black;
+}
